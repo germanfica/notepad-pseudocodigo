@@ -2,6 +2,7 @@
 
 ## Installation:
 Simply import pseudocodigo.xml and pseudocodigo_darkmode.xml to Notepad++ by going to Menu -> **Language -> Define your language  -> Import option**.
+
 **Important:** After that, close Notepad++ and go to **Language -> pseudocodigo.**
 
 ## File extension:
